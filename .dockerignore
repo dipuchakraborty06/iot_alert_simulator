@@ -1,0 +1,9 @@
+.jshintrc
+.project
+.sublime-project
+.tern-project
+README.md
+*.pem
+**/.git
+**/.settings
+**/node_modules
